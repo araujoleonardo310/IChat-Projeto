@@ -142,12 +142,6 @@ body {
     background-color: #103a07;
 }
 
-.v-divider {
-    height: 48px;
-    width: 2px;
-    background-color: #f6f6f6;
-}
-
 /*====== Conectados =====*/
 .clients-total {
     margin: 20px 0;
