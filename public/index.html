@@ -5,37 +5,39 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>IChat🗨️</title>
-    <!-- Icones Font Awesome -->
+    <!-- Script Font Awesome -->
     <script src="https://kit.fontawesome.com/115461b4d8.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="/public/style.css">
 </head>
 <body>
-    <!--Título-->
-    <h1>Ichat <i class="far fa-comments"></i></h1>
+    <!--Titulo-->
+    <h1 class="title">Ichat <i class="far fa-comments"></i></h1>
 
-    <!--Área princiapal-->
+    <!--Área principal-->
     <div class="main">
-        <!--Usuário-->
+        
+        <!--Usuario-->
         <div class="name">
             <span><i class="far fa-user"></i></span>
-            <input type="text" id="name-input" value="anonymous" maxlength="20">
+            <input type="text" id="name-input" value="anonymous" maxlength="20" class="name-input">
         </div>
 
-        <!--Balões das mensagens-->
+        <!--Mensagens-->
         <ul class="message-container">
 
-            <!--Lado Esquerdo-->
+            <!--Balao Esquerdo-->
             <li class="message-left">
                 <p class="message">
                     lorem impsun
-                    <span>bluebird ⚪ 26 de junho 10:40</span>
+                    <span><i class="far fa-check-circle"></i> 26 de junho 10:40</span>
                 </p>                
             </li>
 
-            <!--Lado Direito-->
+            <!--Balao Direito-->
             <li class="message-right">
                 <p class="message">
                     lorem impsun
-                    <span>bluebird ⚪ 26 de junho 10:40</span>
+                    <span><i class="far fa-check-circle"></i> 26 de junho 10:40</span>
                 </p>                
             </li>
 
@@ -45,21 +47,21 @@
             </li>
         </ul>
 
-        <!--Área de formulário-->
+        <!--Área de formulario-->
         <form action="" class="message-form" id="message-form">
             
-            <!--texto de messagens-->
+            <!--textos de messagens-->
             <input type="text" name="message" id="message-input" class="message-input">
 
-            <!--Butões-->
+            <!--Buttons-->
             <div class="v-divider"></div>
             <button type="submit" class="send-button">
                 Enviar <span><i class="far fa-paper-plane"></i></span>
             </button>            
-        </form>
-
-        <!--Número de conectados-->
-        <h3 class="clients-total" id="client-total">Total de Conectados: 2</h3>        
-    </div>    
+        </form>      
+    </div>  
+    
+    <!--Conectados-->
+    <h3 class="clients-total" id="client-total">Total de Conectados: 2</h3>  
 </body>
 </html>
