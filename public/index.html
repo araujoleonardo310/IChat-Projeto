@@ -9,8 +9,57 @@
     <script src="https://kit.fontawesome.com/115461b4d8.js" crossorigin="anonymous"></script>
 </head>
 <body>
+    <!--Título-->
     <h1>Ichat <i class="far fa-comments"></i></h1>
-    
-    
+
+    <!--Área princiapal-->
+    <div class="main">
+        <!--Usuário-->
+        <div class="name">
+            <span><i class="far fa-user"></i></span>
+            <input type="text" id="name-input" value="anonymous" maxlength="20">
+        </div>
+
+        <!--Balões das mensagens-->
+        <ul class="message-container">
+
+            <!--Lado Esquerdo-->
+            <li class="message-left">
+                <p class="message">
+                    lorem impsun
+                    <span>bluebird ⚪ 26 de junho 10:40</span>
+                </p>                
+            </li>
+
+            <!--Lado Direito-->
+            <li class="message-right">
+                <p class="message">
+                    lorem impsun
+                    <span>bluebird ⚪ 26 de junho 10:40</span>
+                </p>                
+            </li>
+
+            <!--Stutus Conversas-->
+            <li class="message-feedback">
+                <p class="feedback" id="feedback">Leo está digitando</p>
+            </li>
+        </ul>
+
+        <!--Área de formulário-->
+        <form action="" class="message-form" id="message-form">
+            
+            <!--texto de messagens-->
+            <input type="text" name="message" id="message-input" class="message-input">
+
+            <!--Butões-->
+            <div class="v-divider"></div>
+            <button type="submit" class="send-button">
+                Enviar <span><i class="far fa-paper-plane"></i></span>
+            </button>            
+        </form>
+
+        <!--Número de conectados-->
+        <h3 class="clients-total" id="client-total">Total de Conectados: 2</h3>        
+    </div>    
 </body>
 </html>
