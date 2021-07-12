@@ -17,15 +17,15 @@ socket.on('clients-total', (data) => {
 })
 
 function sendMessage() {
-    console.log(messageInput.Value)
+    console.log(messageInput.value)
     const data = {
-        name: nameInput.Value,
-        message: messageInput.Value,
-        dataTime: new Date()
+        name: nameInput.value,
+        message: messageInput.value,
+        dataTime: new Date(),
     }
     socket.emit('message', data)
     addMessageToUI(true, data)
-    messageInput.Value = ''
+    messageInput.value = ''
 }
 
 socket.on('chat-message', (data) => {
@@ -39,7 +39,7 @@ function addMessageToUI(isOwnMessage, data) {
             <p class="message">
                 ${data.message}
                 lorem impsun
-                <span>${data.name} <i class="far fa-check-circle"></i> ${moment(data.time).fromNow()}</span>
+                <span>${data.name} ⚪ ${moment(data.dataTime).fromNow()}</span>
             </p>                
         </li>
         `
