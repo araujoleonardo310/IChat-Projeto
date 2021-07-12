@@ -59,7 +59,7 @@ body {
 .message-container {
     display: flex;
     flex-direction: column;
-    background-image: url('/img/background-messeger.png');
+    background-image: url('https://i.redd.it/qwd83nc4xxf41.jpg');
     width: 400px;
     height: 600px;
     overflow-y: scroll;

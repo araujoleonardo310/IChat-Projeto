@@ -11,3 +11,16 @@ app.use(express.static(path.join(__dirname, 'public')))
 io.on('connection', (socket) => {
     console.log(socket.id)
 }) 
+
+function onConnected(socket){
+    console.log(socket.id)
+    socketsConected.add(socket.id)
+
+    io.emit('clients-total', socketsConected.size)
+
+    socket.on('disconnect', () => {
+        console.log('Socket disconnected', soket.id)
+        socketsConected.delete(socket.id)
+        io.emit('clients-total', socketsConected.size)
+    })
+}
