@@ -18,4 +18,14 @@ socket.on('clients-total', (data) => {
 
 function sendMessage() {
     console.log(messageInput.Value)
+    const data = {
+        name: nameInput.Value,
+        message: messageInput.Value,
+        dataTime: new Date()
+    }
+    socket.emit('message', data)
 }
+
+socket.on('chat-message', (data) => {
+    console.log(data)
+})
