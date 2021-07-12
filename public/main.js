@@ -24,8 +24,24 @@ function sendMessage() {
         dataTime: new Date()
     }
     socket.emit('message', data)
+    addMessageToUI(true, data)
+    messageInput.Value = ''
 }
 
 socket.on('chat-message', (data) => {
-    console.log(data)
+    // console.log(data)
+    addMessageToUI(false, data)
 })
+
+function addMessageToUI(isOwnMessage, data) {
+    const element = `
+        <li class="${isOwnMessage ? "message-right" : "message-left"}">
+            <p class="message">
+                ${data.message}
+                lorem impsun
+                <span>${data.name} <i class="far fa-check-circle"></i> ${moment(data.time).fromNow()}</span>
+            </p>                
+        </li>
+        `
+    messageContainer.innerHTML += element
+}
