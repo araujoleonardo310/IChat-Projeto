@@ -40,7 +40,7 @@ function addMessageToUI(isOwnMessage, data) {
             <p class="message">
                 ${data.message}
                 lorem impsun
-                <span>${Date.name} ⚪ ${moment(data.datetime).fromNow()}</span>
+                <span>${data.name} ⚪ ${moment(data.dateTime).fromNow()}</span>
             </p>                
         </li>
         `
