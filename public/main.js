@@ -17,15 +17,16 @@ socket.on('clients-total', (data) => {
 })
 
 function sendMessage() {
-    console.log(messageInput.Value)
+    console.log(messageInput.value)
     const data = {
-        name: nameInput.Value,
-        message: messageInput.Value,
-        dataTime: new Date()
+        name: nameInput.value,
+        message: messageInput.value,
+        dateTime: new Date()
     }
+
     socket.emit('message', data)
     addMessageToUI(true, data)
-    messageInput.Value = ''
+    messageInput.value = ''
 }
 
 socket.on('chat-message', (data) => {
