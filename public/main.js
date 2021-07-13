@@ -21,8 +21,9 @@ function sendMessage() {
     const data = {
         name: nameInput.value,
         message: messageInput.value,
-        dataTime: new Date(),
+        dateTime: new Date()
     }
+
     socket.emit('message', data)
     addMessageToUI(true, data)
     messageInput.value = ''
