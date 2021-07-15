@@ -9,70 +9,69 @@
     <!-- Script Font Awesome -->
     <script src="https://kit.fontawesome.com/115461b4d8.js" crossorigin="anonymous"></script>
 </head>
+<body>
 
-    <div class="container-main"><!-- CONTAINER MAIN -->        
-            
-        <div class="container-chat"><!-- CONTAINER CHAT --->
-            
-            <!--Titulo-->
-            <h1 class="title"><i class="far fa-comments"></i>Ichat</h1>
-            
-            <div class="main"> <!-- CHAT -->
+    <div class="container-main"> <!-- CONTAINER PRINCIPAL -->
 
-                <!--Usuario-->
-                <div class="name">
-                    <span><i class="far fa-user"></i></span>
-                    <input type="text" id="name-input" value="Digite seu nome aqui!" maxlength="20" class="name-input">
-                </div>
-
-                <!--Mensagens de textos -->
-                <ul class="message-container" id="message-container">
-
-                    <!--Balao Esquerdo-->
-                    <li class="message-left">
-                        <p class="message">
-                            <span></span>
-                        </p>                
-                    </li>
-
-                    <!--Balao Direito-->
-                    <li class="message-right">
-                        <p class="message">
-                            <span></span>
-                        </p>                
-                    </li>
-
-                    <!--Stutus Conversas-->
-                    <li class="message-feedback">
-                        <p class="feedback" id="feedback"></p>
-                    </li>
-                </ul>
-
-                <!--Área de formulario-->
-                <form class="message-form" id="message-form">
-                    
-                    <!--textos de messagens-->
-                    <input type="text" name="message" id="message-input" class="message-input" placeholder="Escreva">
-
-                    <!--Buttons-->
-                    <button type="submit" class="send-button">
-                        Enviar <span><i class="far fa-paper-plane"></i></span>
-                    </button>            
-                </form>
-
-            </div><!-- FIM CHAT -->  
-        
-            <!--Conectados-->
-            <h3 class="clients-total" id="client-total">Conectados: 2</h3>
-
-        </div><!-- FIM CONTAINER CHAT -->
-        
-        <div class="banner">
-            <img src="https://i.imgur.com/bcsFCGM.png" alt="banner">
-        </div>
-
-    </div><!--FIM CONTAINER MAIN -->
     
+    <div class="container-chat"> <!-- CONTAINER DO CHAT -->
+        <!--Titulo-->
+        <h1 class="title">Ichat 💬</h1>
+
+    
+        <!--Área principal-->
+        <div class="main">
+            
+            <!--Usuario-->
+            <div class="name">
+                <span><i class="far fa-user"></i></span>
+                <input type="text" id="name-input" value="Digite seu nome aqui!" maxlength="20" class="name-input">
+            </div>
+
+            <!--Mensagens de textos -->
+            <ul class="message-container" id="message-container">
+
+                <!--Balao Esquerdo-->
+                <li class="message-left">
+                    <p class="message">
+                        <span></span>
+                    </p>                
+                </li>
+
+                <!--Balao Direito-->
+                <li class="message-right">
+                    <p class="message">
+                        <span></span>
+                    </p>                
+                </li>
+
+                <!--Stutus Conversas-->
+                <li class="message-feedback">
+                    <p class="feedback" id="feedback"></p>
+                </li>
+            </ul>
+
+            <!--Área de formulario-->
+            <form class="message-form" id="message-form">
+                
+                <!--textos de messagens-->
+                <input type="text" name="message" id="message-input" class="message-input" placeholder="Digite sua mensagem">
+
+                <!--Buttons-->
+                <button type="submit" class="send-button">
+                    Enviar <span><i class="far fa-paper-plane"></i></span>
+                </button>            
+            </form>      
+        </div>  
+        <h3 class="clients-total" id="client-total"></h3> 
+    </div> <!-- FIM DO CONTAINER CHAT -->
+
+    <div class="container-img"><!-- BANNER-->
+        <img src="https://i.imgur.com/eW3VbjP.png"/>
+    </div> <!-- FIM DO BANNER -->
+
+    </div> <!-- FIM CONTAINER PRINCIPAL -->
+   
     <!-- Script app.js -->
     <script src="/socket.io/socket.io.js"></script>
 
