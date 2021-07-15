@@ -15,11 +15,26 @@ body {
 
 /*====== CONTAINERS ==========*/
 
-.container-main {
+.container-main { 
     display: flex;
+    justify-content: space-between;
     align-items: center;
-    justify-content: center;
+    padding-left: 15%;
+    padding-right: 10%;
+    margin-left: 8%;
+    margin-top: 2%;
+
 }
+
+.container-banner {
+    margin-left: 25%;
+}
+
+.container-banner img {
+    width: 100%;
+}
+
+
 
 
 
