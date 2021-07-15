@@ -1,6 +1,5 @@
 /*===== GERAIS =====*/
-
-@import url('');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
 * {
     margin: 0;
@@ -10,15 +9,24 @@
 }
 
 body {
-    font-family: 'Josefin Sans', sans-serif;
-    display: grid;
-    place-items: center;
-    background-image: url('https://i.imgur.com/at5ymck.jpeg')
+    font-family: 'Roboto', sans-serif;
 }
 
-/*===== Estilização Chat ======*/
 
-/*======= Usuário =======*/
+/*====== CONTAINERS ==========*/
+
+
+
+
+
+
+
+
+
+
+
+
+/*======= CHAT =======*/
 
 .title {
     margin: 20px 0;
@@ -53,8 +61,6 @@ body {
     outline: none;
     background-color: #ebebeb;
 }
-
-/*===== Mensagens ======*/
 
 .message-container {
     display: flex;
@@ -104,8 +110,6 @@ body {
     text-align: center;
 }
 
-/*===== Formulario de Mensagens =======*/
-
 .message-form {
     display: flex;
     justify-content: space-between;
@@ -142,13 +146,12 @@ body {
     background-color: #103a07;
 }
 
-/*====== Conectados =====*/
 .clients-total {
     margin: 20px 0;
     color: #000205; 
 }
 
-
+/*============= TELAS DE APARELHOS  ==============*/
 
 
 
