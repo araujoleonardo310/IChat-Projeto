@@ -1,6 +1,6 @@
 /*===== GERAIS =====*/
 
-@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;700&display=swap');
+@import url('');
 
 * {
     margin: 0;
@@ -13,7 +13,7 @@ body {
     font-family: 'Josefin Sans', sans-serif;
     display: grid;
     place-items: center;
-    background-color: #ebebeb;
+    background-image:('')
 }
 
 /*===== Estilização Chat ======*/
@@ -59,7 +59,7 @@ body {
 .message-container {
     display: flex;
     flex-direction: column;
-    background-image: url('https://i.redd.it/qwd83nc4xxf41.jpg');
+    background-image: url('https://drive.google.com/file/d/1Ji0GErndpBDOP9XDFG-a5DkfZt1-hh_K/view?usp=sharing');
     width: 400px;
     height: 600px;
     overflow-y: scroll;
