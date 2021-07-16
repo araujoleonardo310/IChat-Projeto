@@ -30,6 +30,8 @@ body{
     align-items: center;
     justify-content: space-around;
     background-color: #ebeef1;
+    height: 100vh;
+    
 }
 
 .container-chat {
@@ -211,7 +213,7 @@ body{
 
     .container-main {
         display: grid;
-        height: 85%;
+        height: 85vh;
     }
 
     .container-chat {
