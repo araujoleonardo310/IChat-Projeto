@@ -44,6 +44,20 @@ body{
 }
 
 
+
+.message-left, .message-right {
+    list-style: none;
+    padding: 8px 12px;
+    margin: 12px;
+    max-width: 75%;
+    font-size: 2.5em;
+    margin-top: 5%;
+}
+
+
+
+
+
 /*===== CHAT ======*/
 
 .title{
@@ -95,14 +109,9 @@ body{
     overflow-x: hidden;
 }
 
-.message-left, .message-right {
-    list-style: none;
-    padding: 8px 12px;
-    margin: 12px;
-    max-width: 60%;
-    font-size: 18px;
-   
-}
+
+
+
 .message-left {
     border-radius: 20px 20px 20px 0px;
     align-self: flex-start;
@@ -118,6 +127,8 @@ body{
     color: #fff;
 }
 
+
+
 .message-left > p > span, .message-right > p > span {
     display: block;
     font-style: italic;
@@ -126,12 +137,12 @@ body{
 }
 
 .name > span {
-    font-size: 2em;
+    font-size: 3em;
 }
 
 .feedback {
     font-style: italic;
-    font-weight: 600;
+    font-weight: 900;
     padding: 0px 16px 16px;
     color: #2d2d2d;
     text-align: center;
@@ -147,7 +158,7 @@ body{
 
 .message-input {
     width: 90%;
-    height: 48px;
+    height: 40px;
     font-size: 1em;
     border: none;
     outline: none;
@@ -158,7 +169,7 @@ body{
 
 .send-button {
     margin-left: 12px;
-    height: 48px;
+    height: 44px;
     font-size: 1em;
     border: none;
     padding: 0px 15px;
