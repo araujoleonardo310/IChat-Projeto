@@ -176,6 +176,37 @@ body{
 
 /*======== RESPONSIVIDADE ======*/
 
+@media (max-width: 768px){
+    .container-img img {
+        width: 80%;
+        margin-bottom: 160%;
+        margin-left: 8%;
+    }
+
+    .title {
+        font-size: 3.5em;
+    }
+
+    .name-input {
+        font-size: 1em;
+    }
+
+    .container-chat {
+        height: 70vh;
+        width: 85%;
+    }
+
+    .message-form {
+        margin-bottom: 0;
+        margin-top: 4%;
+    }
+
+    .clients-total {
+        font-size: 1.7em;
+    }
+}
+
+
 @media (max-width: 360px){
 
     .container-main {
@@ -214,35 +245,3 @@ body{
 
 }
 
-
-@media (max-width: 768px){
-    .container-img img {
-        width: 80%;
-        margin-bottom: 160%;
-        margin-left: 8%;
-    }
-
-    .title {
-        font-size: 3.5em;
-    }
-
-    .name-input {
-        font-size: 1em;
-    }
-
-    .container-chat {
-        height: 70vh;
-        width: 85%;
-    }
-
-    .message-form {
-        margin-bottom: 0;
-        margin-top: 4%;
-    }
-
-    .clients-total {
-        font-size: 1.7em;
-    }
-
-
-}
