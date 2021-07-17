@@ -1,4 +1,4 @@
-<h1>Projeto 💬Ichat </h1>
+<h1>Projeto 💬IChat </h1>
 
 <br>
 
@@ -10,7 +10,7 @@
 
 <br>
 
-> Este é um projeto que foi solicitado e construído para um desafio de vaga Estágio/Trainee da Starup Tallos. Ele é um chat com troca de mensagens em tempo real e com uma interfarce agradável. Asista esta desmostração e veja funcionando  👉 [Clique aqui!](https://drive.google.com/file/d/1B6I649s-Vo_NCCgOttMv7pb9gktH_IRF/view?usp=sharing)
+> Este é um projeto que foi solicitado como desafio de Estágio/Trainee da Starup Tallos. Ele é um chat com trocas de mensagens em tempo real e com uma interfarce agradável.
 
 <br>
 
