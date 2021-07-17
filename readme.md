@@ -1,10 +1,16 @@
 <h1>Projeto 💬Ichat </h1>
 
+<br>
+
+![](https://i.imgur.com/gHgOqst.png)
+
+<br>
+
 ### Sobre
 
 <br>
 
-> Este é um projeto que foi solicitado e construído para um desafio de vaga Estágio/Trainee da Starup Tallos. Ele é um chat com troca de mensagens em tempo real e com uma interfarce agradável. Asista esta desmostração e veja funcionando  👉 [Clique aqui!]()
+> Este é um projeto que foi solicitado e construído para um desafio de vaga Estágio/Trainee da Starup Tallos. Ele é um chat com troca de mensagens em tempo real e com uma interfarce agradável. Asista esta desmostração e veja funcionando  👉 [Clique aqui!](https://drive.google.com/file/d/1B6I649s-Vo_NCCgOttMv7pb9gktH_IRF/view?usp=sharing)
 
 <br>
 
