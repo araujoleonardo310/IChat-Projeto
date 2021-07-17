@@ -4,7 +4,7 @@
 
 <br>
 
-> Este é um projeto que foi solicitado e construído para um desafio de vaga Estágio/Trainee da Starup Tallos. Ele é um chat com troca de mensagens em tempo real e com uma interfarce agradável.
+> Este é um projeto que foi solicitado como desafio de Estágio/Trainee da Starup Tallos. Ele é um chat com trocas de mensagens em tempo real e com uma interfarce agradável.
 
 <br>
 
