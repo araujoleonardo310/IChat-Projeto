@@ -12,7 +12,7 @@
 
 > Este é um projeto que foi solicitado como desafio de Estágio/Trainee da Starup Tallos. Ele é um chat com trocas de mensagens em tempo real e com uma interfarce agradável. 
 
-Assista uma demostração pelo Google Drive [Clique aqui!](https://drive.google.com/file/d/1B6I649s-Vo_NCCgOttMv7pb9gktH_IRF/view?usp=sharing)
+Assista uma demostração pelo Google Drive [Clique aqui!](https://drive.google.com/file/d/1TrYl5z18Z7wmGAlexo3AVmO4AX5oTW-P/view?usp=sharing)
 
 
 
