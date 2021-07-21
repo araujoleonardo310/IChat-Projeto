@@ -132,7 +132,7 @@ Assista uma demostração e veja o que já consegui desenvolver no percurso [Cli
 
 <br>
 
-__Chat application using WebsocketsNodejs Express and Socket__ - [ Canal YouTube](https://youtube.com/playlist?list=PLdHg5T0SNpN09AlLBAYahKZUrAWsIL7No)
+__Chat application using Websockets Nodejs Express and Socket__ - [ Canal YouTube](https://youtube.com/playlist?list=PLdHg5T0SNpN09AlLBAYahKZUrAWsIL7No)
 
 <br>
 
