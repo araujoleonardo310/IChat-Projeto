@@ -75,7 +75,7 @@ Assista uma demostração e veja o que já consegui desenvolver no percurso [Cli
     - [x] Conceito de controle de versão e ferramenta git
     - [x] Conceito de github e ferramentas
     - [x] Separação de conceitos (SoC) entre backend e frontend
-    - [x] Linguagem Markadown
+    - [x] Linguagem Markdown
     - [x] Leitura e interpretação de documentos de resquisitos de projeto
     - [x] Feactures 
     
