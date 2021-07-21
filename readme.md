@@ -6,7 +6,7 @@
 
 <br>
 
-## Descrição/Objetivo do Projeto
+### Descrição/Objetivo do Projeto
 
 <br>
 
@@ -16,7 +16,7 @@ Assista uma demostração e veja o que já consegui desenvolver no percurso [Cli
 
 <br>
 
-### Resumo de linguagens, bibliotecas e outras informações sobre este projeto
+### Resumo de linguagens, bibliotecas e informações do projeto
 <hr><br>
 
 <div></div>
@@ -37,7 +37,7 @@ Assista uma demostração e veja o que já consegui desenvolver no percurso [Cli
 
 <br>
 
-## Recursos & Ferramentas utilizados pelo desenvolvedor 🐧💻
+### Recursos & Ferramentas utilizados pelo desenvolvedor 🐧💻
 
 
 * Git<br>
@@ -55,7 +55,7 @@ Assista uma demostração e veja o que já consegui desenvolver no percurso [Cli
 * Google Fonts
 <br>
 
-# Conhecimentos ao longo do percurso de desenvolvimento
+### Conhecimentos ao longo do percurso de desenvolvimento
 
     - [x] Aprender o que é front e back 
     - [ ] Entender nodejs e sua cli (estrutura e comandos)
@@ -123,7 +123,7 @@ Assista uma demostração e veja o que já consegui desenvolver no percurso [Cli
 
 <br>
 
-> Essa foi a porta escolhia e configurada em neste meu projeto!
+> Essa foi a porta escolhida e configurada!
 
 <br>
 
@@ -136,11 +136,11 @@ __Chat application using Websockets Nodejs Express and Socket__ - [ Canal YouTub
 
 <br>
 
-## Autor do projeto 👊
+### Autor do projeto 👊
 
 <br>
 
-### Leonardo Araújo <br>
+#### Leonardo Araújo <br>
 ***Universiário  de Sistemas de Informação 🧑‍🎓💻***
 <hr>
 
