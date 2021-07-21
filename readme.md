@@ -6,13 +6,13 @@
 
 <br>
 
-## Sobre
+## Descrição/Objetivo do Projeto
 
 <br>
 
-> Este é um projeto que foi solicitado como desafio de Estágio/Trainee da Starup Tallos. Ele é um chat com trocas de mensagens em tempo real e com uma interfarce agradável. 
+> E um chat com trocas de mensagens e arquivos multimídia entre usuários por um servidor e em tempo real.
 
-Assista uma demostração pelo Google Drive [Clique aqui!](https://drive.google.com/file/d/1B6I649s-Vo_NCCgOttMv7pb9gktH_IRF/view?usp=sharing)
+Assista uma demostração pelo Google Drive, e veja até o momento, seu desenvolvimento [Clique aqui!](https://drive.google.com/file/d/1B6I649s-Vo_NCCgOttMv7pb9gktH_IRF/view?usp=sharing)
 
 <br>
 
