@@ -6,7 +6,7 @@
 
 <br>
 
-### Sobre
+## Sobre
 
 <br>
 
@@ -14,13 +14,24 @@
 
 Assista uma demostração pelo Google Drive [Clique aqui!](https://drive.google.com/file/d/1B6I649s-Vo_NCCgOttMv7pb9gktH_IRF/view?usp=sharing)
 
-
-
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/araujoleonardo310/github-readme-stats)
+### Resumo de linguagens, bibliotecas e outras informações sobre este projeto
+<hr><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=araujoleonardo&show_icons=true&theme=dracula)
+<div></div>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=araujoleonardo310&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=araujoleonardo310&show_icons=true&theme=dark)
+
+
+
+
+
+
 
 <br>
 
@@ -28,7 +39,7 @@ Assista uma demostração pelo Google Drive [Clique aqui!](https://drive.google.
 
 <br>
 
-> **Concluíndo 🚧❌**
+> **Projeto em andamento 🚧❌**
 
 <br>
 
@@ -48,6 +59,33 @@ Assista uma demostração pelo Google Drive [Clique aqui!](https://drive.google.
 * Moment.js<br>
 * FontAwesome<br>
 * Google Fonts
+<br>
+
+# Conhecimentos ao longo do percurso de desenvolvimento
+
+    - [x] Aprender o que é front e back 
+    - [ ] Entender nodejs e sua cli (estrutura e comandos)
+    - [ ] Padrao observable
+     -[ ] Conceito de reatividade e de socket
+    - [ ] Aprendizado de libs como as do nodejs (como express), javascript, vuejs, socket.io , momentjs, e rxjs
+    - [x] Aprender html , css, javascript
+    - [ ] Banco nao relacional (mongodb)
+    - [ ] Conectar na aws e utilizar componente S3
+    - [x] Aprender a mexer no github
+    - [x] Conceito de cliente/servidor
+    - [ ] Conceito e lib de JWT para gerar token
+    - [ ] Como funciona a autenticação utilizando token
+    - [ ] Conceito de eventos
+    - [ ] Conceito de api web
+    - [ ] Conceito de assincronia e sincronia (async e sync) na troca de mensagens entre cliente e servidor
+    - [x] Conceito de controle de versão e ferramenta git
+    - [x] Conceito de github e ferramentas
+    - [x] Separação de conceitos (SoC) entre backend e frontend
+    - [x] Linguagem Markadown
+    - [x] Leitura e interpretação de documentos de resquisitos de projeto
+    - [x] Feactures 
+    
+
 
 ### Bibliotescas e configuações necesseárias para construir ou rodar o projeto 🙋‍♂️
 
@@ -93,43 +131,22 @@ Assista uma demostração pelo Google Drive [Clique aqui!](https://drive.google.
 
 > Essa foi a porta escolhia e configurada em neste meu projeto!
 
-
-
-<br>
-
-### O quê aprendi ao longo da jornada 🧑‍💻
-
 <br>
 
 
-* Um pouca da programação em TypeScript 
-
-* Compreensão prática de client-side (lado do cliente) e server-side (lado do servidor)
-
-
-* Mais habilidades com leitura de documentação, pesquisas e raciocínio para implementar recursos
-
-* Experiênca com comandos no terminal
-
-* Adquição de novas Hard skills e soft skills
-
-* Conheci mais features (recusos) do Visual Code
+### 🐧🖖 Refência para criação desse projeto
 
 <br>
 
-### 🐧🖖 Refência base para criação deste projeto
+__Chat application using WebsocketsNodejs Express and Socket__ - [ Canal YouTube](https://youtube.com/playlist?list=PLdHg5T0SNpN09AlLBAYahKZUrAWsIL7No)
 
 <br>
 
-- [Chat application using Websockets (Nodejs Express and Socket.io)](https://youtube.com/playlist?list=PLdHg5T0SNpN09AlLBAYahKZUrAWsIL7No)
+## Autor do projeto 👊
 
 <br>
 
-### Autor do projeto 👊
-
-<br>
-
-#### Leonardo Araújo <br>
+### Leonardo Araújo <br>
 ***Universiário  de Sistemas de Informação 🧑‍🎓💻***
 <hr>
 
