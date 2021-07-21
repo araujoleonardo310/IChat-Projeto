@@ -10,7 +10,7 @@
 
 <br>
 
-> E um chat com trocas de mensagens e arquivos multimídia entre usuários por um servidor e em tempo real.
+> E um chat de trocas de mensagens e arquivos  multimídia entre usuários, por um servidor, em tempo real.
 
 Assista uma demostração pelo Google Drive, e veja até o momento, seu desenvolvimento [Clique aqui!](https://drive.google.com/file/d/1B6I649s-Vo_NCCgOttMv7pb9gktH_IRF/view?usp=sharing)
 
@@ -26,12 +26,6 @@ Assista uma demostração pelo Google Drive, e veja até o momento, seu desenvol
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=araujoleonardo310&show_icons=true&theme=dark)
-
-
-
-
-
-
 
 <br>
 
