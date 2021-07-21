@@ -140,7 +140,7 @@ __Chat application using Websockets Nodejs Express and Socket__ - [ Canal YouTub
 <br>
 
 #### Leonardo Araújo <br>
-***Universiário  de Sistemas de Informação 🧑‍🎓💻***
+***Universitário  de Sistemas de Informação 🧑‍🎓💻***
 <hr>
 
 <br>
