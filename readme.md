@@ -45,11 +45,10 @@ Assista uma demostração e veja o que já consegui desenvolver no percurso [Cli
 * Visual Studio Code<br>
 * Html<br>
 * CSS<br>
-* TypeScript<br>
-* Websockets (socket.io) 
+* JavaScript<br>
 * Nodejs<br>
 * Express<br>
-* Socket.<br>
+* Socket.io<br>
 * Moment.js<br>
 * FontAwesome<br>
 * Google Fonts
