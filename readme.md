@@ -12,7 +12,7 @@
 
 > E um chat de trocas de mensagens e arquivos  multimídia entre usuários, por um servidor, em tempo real.
 
-Assista uma demostração, e veja o que já desenvoli nele [Clique aqui!](https://youtu.be/ut3OrgPMqC4)
+Assista uma demostração e veja o que já consegui desenvolver no percurso [Clique aqui!](https://youtu.be/ut3OrgPMqC4)
 
 <br>
 
