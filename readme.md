@@ -57,7 +57,7 @@ Assista uma demostração e veja o que já consegui desenvolver no percurso [Cli
 ### Conhecimentos ao longo do percurso de desenvolvimento
 
     - [x] Aprender o que é front e back 
-    - [ ] Entender nodejs e sua cli (estrutura e comandos)
+    - [ ] Entender Node.js e sua cli (estrutura e comandos)
     - [ ] Padrao observable
      -[ ] Conceito de reatividade e de socket
     - [ ] Aprendizado de libs como as do nodejs (como express), javascript, vuejs, socket.io , momentjs, e rxjs
@@ -92,7 +92,7 @@ Assista uma demostração e veja o que já consegui desenvolver no percurso [Cli
 
 - Tenha um **terminal de comados** para baixar, configurar e executar este projeto. 
 
-> Alguns editores de código possuem essa feacture (atalhos/recursos). <br><br>Verifique se seu editor possui, mas... caso não o tenha, você pode baixar um terminal externo e configurar com sua máquina para funcionar! <br><br> o ***Cmder*** é uma exelecente opção! Ele é de fácil configuação e sua interface é muito atrativa e prática 👉 [Saiba mais sobre o Cmder!](https://cmder.net/). 
+> Alguns editores de código possuem essa feature (atalhos/recursos). <br><br>Verifique se seu editor possui, mas... caso não o tenha, você pode baixar um terminal externo e configurar com sua máquina para funcionar! <br><br> o ***Cmder*** é uma exelecente opção! Ele é de fácil configuação e sua interface é muito atrativa e prática 👉 [Saiba mais sobre o Cmder!](https://cmder.net/). 
 
 <br>
 
@@ -131,7 +131,7 @@ Assista uma demostração e veja o que já consegui desenvolver no percurso [Cli
 
 <br>
 
-__Chat application using Websockets Nodejs Express and Socket__ - [ Canal YouTube](https://youtube.com/playlist?list=PLdHg5T0SNpN09AlLBAYahKZUrAWsIL7No)
+__Chat application using Websockets Node.js Express and Socket__ - [ Canal YouTube](https://youtube.com/playlist?list=PLdHg5T0SNpN09AlLBAYahKZUrAWsIL7No)
 
 <br>
 
@@ -145,5 +145,5 @@ __Chat application using Websockets Nodejs Express and Socket__ - [ Canal YouTub
 
 <br>
 
-***"O sucesso possui muitos caminhos e, cabe você escolher o melhor deles em sua vida ✨"*** 
+***"O sucesso possui muitos caminhos e, cabe você escolher o melhor dentre eles ✨"*** 
 
