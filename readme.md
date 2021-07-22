@@ -76,7 +76,7 @@ Assista uma demostração e veja o que já consegui desenvolver no percurso [Cli
     - [x] Separação de conceitos (SoC) entre backend e frontend
     - [x] Linguagem Markdown
     - [x] Leitura e interpretação de documentos de resquisitos de projeto
-    - [x] Feactures 
+    
     
 
 
@@ -86,7 +86,7 @@ Assista uma demostração e veja o que já consegui desenvolver no percurso [Cli
 
 - Baixe o [Node.js](https://nodejs.org/en/download/) 
 
-> As últimas versões do **Node.js** vem com **npm** no pacote - porém, se você utliza uma versão **Node,js** mais antiga, precisará atualizá-la, pois essas versões não incluem o **npm** e, o mesmo,não está mais acessível para se baixar.
+> As últimas versões do **Node.js** vem com **npm** no pacote - porém, se você utliza uma versão **Node.js** mais antiga, precisará atualizá-la, pois essas versões não incluem o **npm** e o mesmo não está mais acessível para baixar.
 
 <br>
 
