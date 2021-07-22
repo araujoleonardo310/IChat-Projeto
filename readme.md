@@ -127,7 +127,7 @@ Assista uma demostração e veja o que já consegui desenvolver no percurso [Cli
 <br>
 
 
-### 🐧🖖 Refência para criação desse projeto
+### 🐧🖖 Referência para criação desse projeto
 
 <br>
 
